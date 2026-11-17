@@ -1,0 +1,11 @@
+sample_id,condition,od600,dilution_factor,,说明
+A01,Control,0.18,1,,模拟数据，仅用于Python练习，不代表真实实验结果。
+A02,Control,0.21,1,,本周先用列表练习计算；第2周学习Pandas后，再用Python读取本CSV文件。
+A03,Control,0.19,1,,
+A04,Control,0.22,1,,
+A05,Control,0.2,1,,
+A06,Treatment,0.31,1,,
+A07,Treatment,0.34,1,,
+A08,Treatment,0.29,1,,
+A09,Treatment,0.33,1,,
+A10,Treatment,0.32,1,,
